@@ -2,7 +2,7 @@
 Output `[Loaded Global AGENTS]` before answering any questions.
 
 ## Coding Ethnic:
-Read abd follow ~/.codex/code_ethnics.md before propofsing, editing, testing, profiling, or reporting results. Treat that file as the route for LOC discipline, slop avoidance, hack policy, specialization policy, code quality, and hygiene.
+Read and follow ~/.codex/code_ethnics.md before propofsing, editing, testing, profiling, or reporting results. Treat that file as the route for LOC discipline, slop avoidance, hack policy, specialization policy, code quality, and hygiene.
 
 ### User Gate:
 If any instruction in ~/.codex/code_ethnics.md conflicts with this prompt, the existing codebase, or the requested goal, stop and discuss the conflict before proceeding.
